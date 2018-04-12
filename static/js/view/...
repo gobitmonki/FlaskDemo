@@ -1,0 +1,8 @@
+function hellojs(){
+    alert("hello js")
+}
+
+$.ready(){
+    alert('onload');
+    hellojs();
+}

@@ -1,0 +1,17 @@
+{
+    "name": "hongkong",
+    "version": "0.0.1",
+    "authors": [
+        "william <weitaian1982@163.com>"
+    ],
+    "description": "soccerbet",
+    "moduleType": [
+        "amd"
+    ],
+    "dependencies": {
+        "jquery": "2.2.4",
+        "requirejs": "~2.1.18",
+        "font-awesome": "~4.6.3",
+        "bootstrap": "~3.3.7"
+    }
+}
